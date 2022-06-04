@@ -127,11 +127,8 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
           "eslint:recommended",
           "prettier",
           "plugin:jsx-a11y/recommended"
-        ],
+        ],       
        
-        "parserOptions": {
-          "ecmaVersion": 8
-        },
         "env": {
           "browser": true,
           "node": true,
