@@ -5,7 +5,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/think-in-a-react-way">React and Next.js Eslint and Prettier setup for auto code Formating and Best practice</a></h3>
+  <h3 align="center"><a href="https://github.com/suncodebd/EslintSetup/">React and Next.js Eslint and Prettier setup for auto code Formating and Best practice</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
