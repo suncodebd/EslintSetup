@@ -104,7 +104,7 @@ or You can also add a new script in the scripts section like below to install ev
 
 ```json
 
-    "lint": "yarn add -D prettier && yarn add -D babel-eslint && npx install-peerdeps --dev eslint-config-airbnb && yarn add -D eslint-config-prettier eslint-plugin-prettier"
+    "lint": "yarn add -D prettier && npx install-peerdeps --dev eslint-config-airbnb && yarn add -D eslint-config-prettier eslint-plugin-prettier"
 
 ```
 
