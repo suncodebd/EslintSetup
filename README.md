@@ -93,9 +93,10 @@ Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF 
 
 In order to lint and format your React project automatically according to popular airbnb style guide, I recommend you to follow the instructions below.
 
-### Install Dev Dependencies
+### Install Dev Dependencies one by one 
 
 ```sh
+npm install --global yarn
 yarn add -D prettier
 npx install-peerdeps --dev eslint-config-airbnb
 yarn add -D eslint-config-prettier eslint-plugin-prettier
