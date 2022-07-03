@@ -87,7 +87,7 @@ If you followed all previous steps, the theme should change and your editor shou
 
 Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF". If you dont do that, you will get errors in my setup.
 
-<img src="https://i.postimg.cc/tgp8WD4h/Screenshot-2022-06-04-222059.png" alt="Line Feed" width="700">
+<img src="https://i.postimg.cc/tgp8WD4h/Screenshot-2022-06-04-222059.png" alt="Line Feed" width="100%">
 
 ## Linting Setup
 
