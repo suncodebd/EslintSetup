@@ -1,6 +1,6 @@
 
 <!-- Projeect off on -->
-<img src="https://i.postimg.cc/3RhCfbvw/Untitled-1.png" alt="Line Feed" width="700">
+<img src="https://i.ibb.co/FqZSPq5/suncodebd.png" width="100%">
 
 <!-- PROJECT Title -->
 <br />
@@ -55,6 +55,7 @@ Follow the below settings for VS Code -
  {   
     // config related to code formatting
     
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "[javascript]": {
       "editor.formatOnSave": false,
@@ -175,7 +176,7 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 
 Md Minarul islam - [suncodebd@gmail.com](mailto:suncodebd@gmail.com)
 
-Youtube Setup Video Link: [](https://www.youtube.com/channel/UCNQCuB877R0NpDjhjJ76yeg)
+Youtube Setup Video Link: [Eslint setup](https://www.youtube.com/channel/UCNQCuB877R0NpDjhjJ76yeg)
 
 Youtube Channel: [SuncodeBD](https://www.youtube.com/channel/UCNQCuB877R0NpDjhjJ76yeg)
 
