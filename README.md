@@ -179,5 +179,5 @@ Md Minarul islam - [suncodebd@gmail.com](mailto:suncodebd@gmail.com)
 
 Youtube Setup Video Link: [Eslint setup](https://youtu.be/Krg3lCbBuds)
 
-Youtube Channel: [SuncodeBD]( https://www.youtube.com/channel/UCkzFRtqJy0vOF2edO8mvldQ )
+Youtube Channel: [Graplover]( https://www.youtube.com/channel/UCkzFRtqJy0vOF2edO8mvldQ )
 
